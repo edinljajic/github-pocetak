@@ -1,1 +1,3 @@
-# github-pocetakOvo je moj prvi repozitorijum za ucenje Git-a.
+# github-pocetak 
+
+Ovo je moj prvi repozitorijum za ucenje Git-a.
